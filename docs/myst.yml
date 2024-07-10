@@ -8,16 +8,23 @@ project:
   authors: []
   github: https://github.com/jupyter-book/team-compass
   # bibliography: []
+  license: CC0-1.0
+  references:
+    jupyter_governance: https://jupyter.org/governance/
+  toc:
+    - file: index.md
+    - file: team.md
+    - file: contribute.md
+    - file: code-of-conduct.md
+
 site:
   template: book-theme
-  # title:
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
   nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: Jupyter Book
+      url: https://jupyterbook.org
+    - title: MyST Engine
+      url: https://mystmd.org
   domains: []
   options:
     favicon: images/favicon.png
