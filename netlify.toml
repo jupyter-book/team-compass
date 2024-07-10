@@ -1,6 +1,7 @@
 [build]
   command = """
   pip install -r requirements.txt;
-  myst build docs --html --execute
+  cd docs;
+  myst build --html --execute
   """
   publish = "docs/_build/html/"
