@@ -19,14 +19,12 @@ project:
 
 site:
   template: book-theme
-  # title:
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
   nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: Jupyter Book
+      url: https://jupyterbook.org
+    - title: MyST Engine
+      url: https://mystmd.org
   domains: []
   options:
     favicon: images/favicon.png
