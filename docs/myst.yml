@@ -2,12 +2,14 @@
 version: 1
 project:
   id: 1ed3cb19-aaad-4cbf-86bf-57359c2e474b
-  # title:
-  # description:
-  keywords: []
+  title: 'Jupyter Book: Team Compass'
+  description: Team compass and documentation about governance for the Jupyter Book and MyST Markdown communities.
+  keywords:
+    - Jupyter
+    - JupyterBook
+    - MyST Markdown
   authors: []
   github: https://github.com/jupyter-book/team-compass
-  # bibliography: []
   license: CC0-1.0
   references:
     jupyter_governance: https://jupyter.org/governance/
@@ -16,16 +18,14 @@ project:
     - file: team.md
     - file: contribute.md
     - file: code-of-conduct.md
-
 site:
   template: book-theme
   nav: []
   actions:
     - title: Jupyter Book
       url: https://jupyterbook.org
-    - title: MyST Engine
+    - title: MyST Markdown
       url: https://mystmd.org
-  domains: []
   options:
     favicon: images/favicon.png
     logo: images/logo-wide.svg

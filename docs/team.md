@@ -3,10 +3,10 @@ title: Team
 ---
 
 (steering-council)=
+
 ## Steering council
 
-````{grid} 3
-
+```{grid} 3
 :::{card} Chris Holdgraf
 :link: https://github.com/choldgraf
 ![Rowan avatar](https://github.com/choldgraf.png)
@@ -22,11 +22,12 @@ Affiliation: Northern Arizona University
 :::{card} Rowan Cockett
 :link: https://github.com/rowanc1
 ![Rowan avatar](https://github.com/rowanc1.png)
-Affiliation: CurveNote
+Affiliation: Curvenote
 :::
-````
+```
 
 (core-team)=
+
 ## Team members
 
 Our core team consists of the following people (in alphabetical order).
