@@ -6,6 +6,18 @@ title: Team
 
 ## Steering council
 
+The steering council are the primary stewards of the Jupyter Book project and community.
+They set organizational policy and strategy, make decisions when we are at an impasse, and delegate power to others in the organization.
+
+### Mailing list
+
+The Steering Council uses a **Mailing List** for its internal and external communication.
+Anybody may message this list to get in touch with the Steering Council as a whole.
+
+The Steering Council Mailing List is: [**`jupyter-book-council@googlegroups.com`**](mailto:jupyter-book-council@googlegroups.com).
+
+### Members
+
 ```{grid} 3
 :::{card} Chris Holdgraf
 :link: https://github.com/choldgraf
