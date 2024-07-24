@@ -17,6 +17,7 @@ project:
     - file: index.md
     - file: team.md
     - file: governance.md
+    - file: tips.md
     - file: contribute.md
     - file: code-of-conduct.md
 site:
