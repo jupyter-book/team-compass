@@ -23,3 +23,20 @@ Our Code of Conduct defines acceptable and unacceptable behavior for any individ
 It also defines mechanisms for reporting violations and processes for dealing with them.
 
 See [](code-of-conduct.md) for more information.
+
+### MyST specification
+
+MyST is a special project of the Jupyter Book community, here are two sources of truth:
+
+:::{list-table}
+:header-rows: 1
+- * Name
+  * Documentation
+  * Repository
+- * **MyST document structure and markdown standard**
+  * [mystmd.org/spec](https://mystmd.org/spec)
+  * [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
+- * **MyST enhancement proposals**
+  * [mep.mystmd.org](https://mep.mystmd.org/en/latest/)
+  * [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+:::
