@@ -50,6 +50,21 @@ Our core team consists of the following people (in alphabetical order).
 - [`@rowanc1`](https://github.com/rowanc1)
 - [`@stevejpurves`](https://github.com/stevejpurves)
 
+## Software Steering Council Representative
+
+Our {abbr}`SSC (Software Steering Council)` representative is [`@agoose77`](https://github.com/agoose77).
+
+The checkpoint to choose a new SSC representative is **October 1st, 2025**.
+
+:::{note} Our guidelines around SSC representative
+:class: dropdown
+
+The Jupyter Project asks each sub-project to delegate one team member to serve as representative to the [Software Steering Council](https://jupyter.org/governance/software_steering_council.html).
+
+We plan for this to be a role that rotates through the team, with a roughly one-year cycle.
+It can be any of the [core team members](#core-team).
+:::
+
 ## Organizational status
 
 The Jupyter Book community is a sub-project of [the Jupyter Project](https://jupyter.org).
