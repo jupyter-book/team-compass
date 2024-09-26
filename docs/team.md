@@ -46,7 +46,7 @@ Our core team consists of the following people (in alphabetical order).
 
 - [`@agoose77`](https://github.com/agoose77)
 - [`@choldgraf`](https://github.com/choldgraf)
-- [`@fwcoch`](https://github.com/fwcoch)
+- [`@fwkoch`](https://github.com/fwkoch)
 - [`@rowanc1`](https://github.com/rowanc1)
 - [`@stevejpurves`](https://github.com/stevejpurves)
 
