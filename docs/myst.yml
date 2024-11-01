@@ -1,5 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+extends:
+  - https://raw.githubusercontent.com/jupyter-book/meta/refs/heads/main/myst.yml
 project:
   id: 1ed3cb19-aaad-4cbf-86bf-57359c2e474b
   title: 'Jupyter Book: Team Compass'
@@ -21,15 +23,5 @@ project:
     - file: contribute.md
     - file: code-of-conduct.md
 site:
-  template: book-theme
-  nav: []
-  actions:
-    - title: Jupyter Book
-      url: https://jupyterbook.org
-    - title: MyST Markdown
-      url: https://mystmd.org
   options:
-    favicon: images/favicon.png
-    logo: images/logo-wide.svg
-    logo_dark: images/logo-wide-dark.svg
     logo_text: Team Compass
