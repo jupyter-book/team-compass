@@ -18,24 +18,7 @@ The Steering Council Mailing List is: [**`jupyter-book-council@googlegroups.com`
 
 ### Members
 
-```{grid} 3
-:::{card} Chris Holdgraf
-:link: https://github.com/choldgraf
-![Rowan avatar](https://github.com/choldgraf.png)
-Affiliation: 2i2c
-:::
-
-:::{card} Greg Caporaso
-:link: https://github.com/gregcaporaso
-![Rowan avatar](https://github.com/gregcaporaso.png)
-Affiliation: Northern Arizona University
-:::
-
-:::{card} Rowan Cockett
-:link: https://github.com/rowanc1
-![Rowan avatar](https://github.com/rowanc1.png)
-Affiliation: Curvenote
-:::
+```{team} Steering Council
 ```
 
 (core-team)=
@@ -44,11 +27,8 @@ Affiliation: Curvenote
 
 Our core team consists of the following people (in alphabetical order).
 
-- [`@agoose77`](https://github.com/agoose77)
-- [`@choldgraf`](https://github.com/choldgraf)
-- [`@fwkoch`](https://github.com/fwkoch)
-- [`@rowanc1`](https://github.com/rowanc1)
-- [`@stevejpurves`](https://github.com/stevejpurves)
+:::{team} Core Team
+:::
 
 ## Software Steering Council Representative
 

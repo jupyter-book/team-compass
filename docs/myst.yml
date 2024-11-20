@@ -15,6 +15,8 @@ project:
   license: CC0-1.0
   references:
     jupyter_governance: https://jupyter.org/governance/
+  plugins:
+    - src/team.mjs
   toc:
     - file: index.md
     - file: team.md
