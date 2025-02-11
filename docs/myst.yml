@@ -15,6 +15,7 @@ project:
   license: CC0-1.0
   references:
     jupyter_governance: https://jupyter.org/governance/
+    mep: https://mep.mystmd.org/
   plugins:
     - src/team.mjs
   toc:
