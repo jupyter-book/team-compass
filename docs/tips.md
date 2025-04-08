@@ -20,7 +20,7 @@ For examples of this pattern in use in the Jupyter Book organization, see [this 
 
 ## Use sentence-case in headings
 
-There are many natural choices for the case-style of a heading. With the Jupyter Book project, we've settled on <wiki:Sentence_Case>.
+There are many natural choices for the case-style of a heading. With the Jupyter Book project, we've settled on [sentence case](wiki:Stylistic_or_specialised_usage).
 
 For example,
 
