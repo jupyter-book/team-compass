@@ -17,3 +17,13 @@ permissions:
 For more information, see [the GitHub Actions documentation](https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs#defining-access-for-the-github_token-permissions).
 
 For examples of this pattern in use in the Jupyter Book organization, see [this GitHub search query of using this configuration](https://github.com/search?q=org:jupyter-book+%22contents:+write%22+language:YAML&type=code).
+
+## Use sentence-case in headings
+
+There are many natural choices for the case-style of a heading. With the Jupyter Book project, we've settled on <wiki:Sentence_Case>.
+
+For example,
+
+> :::{note} This is a sentence-cased title!
+> A note.
+> :::
