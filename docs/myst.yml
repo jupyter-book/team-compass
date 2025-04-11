@@ -4,7 +4,7 @@ extends:
   - https://raw.githubusercontent.com/jupyter-book/meta/refs/heads/main/myst.yml
 project:
   id: 1ed3cb19-aaad-4cbf-86bf-57359c2e474b
-  title: 'Jupyter Book: Team Compass'
+  title: "Jupyter Book: Team Compass"
   description: Team compass and documentation about governance for the Jupyter Book and MyST Markdown communities.
   keywords:
     - Jupyter
@@ -15,6 +15,7 @@ project:
   license: CC0-1.0
   references:
     jupyter_governance: https://jupyter.org/governance/
+    blog: https://blog.jupyterbook.org/
     mep: https://mep.mystmd.org/
   plugins:
     - src/team.mjs
