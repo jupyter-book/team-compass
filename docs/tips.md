@@ -1,5 +1,9 @@
 # Development tips
 
+:::{seealso} See the `mystmd` developer guide
+[Our `mystmd` Developer guide](https://mystmd.org/guide/developer) has a lot more information about contributing to the MyST Document Engine stack.
+:::
+
 ## Enable publishing with GitHub Actions in new repositories
 
 By default, GitHub disables **`write`** privileges in any repository in the [`jupyter-book` organization](https://github.com/jupyter-book).
