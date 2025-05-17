@@ -1,12 +1,51 @@
-# Join the community
+# Contribute and join
 
-## Where do conversations happen?
+We're an open source community that welcomes contributions from others.
+Here are a few resources to help you get started interacting with our team and community, and making contributions to our projects.
 
-[The MyST Discord](https://discord.mystmd.org) is for general chat in the Jupyter Book and MyST community.
+## Is my contribution welcome?
 
-[The mystmd discussions board](https://github.com/jupyter-book/mystmd/discussions) has general conversation about [the MyST Markdown engine](https://mystmd.org).
+Absolutely! We welcome contribution from anyone, and want others to become contributors, maintainers, and leaders of this project. Please be patient - we also rely on volunteer labor, so we aren't always as responsive as we'd like to be. We promise to do our best!
 
-## How can I join the team meetings?
+## Where to talk
+
+::::{grid} 2
+:::{card} Contributor and user Discord 💬
+:link: https://discord.mystmd.org
+For general chat in the Jupyter Book and MyST community
++++
+Click to visit the Discord
+:::
+:::{card} MyST Discussions Board 💬
+:link: https://github.com/jupyter-book/mystmd/discussions
+For general conversation about the MyST Markdown engine.
++++
+Click to visit the Discussion Forum
+:::
+::::
+
+## Where to learn
+
+::::{grid} 2
+:::{card} The `mystmd` contributor guide 📚
+:link: https://mystmd.org/guide/contributing
+A getting-started page to point you in the right direction for contributions.
++++
+Click to visit the `mystmd` contributor guide
+:::
+:::{card} The `mystmd` developer guide 📚
+:link: https://mystmd.org/guide/developer
+A guide to making technical contributions to the MyST Document Engine stack.
++++
+Click to visit the `mystmd` contributor guide
+:::
+::::
+
+## Events and meetings
+
+### Monthly collaboration cafes
+
+Collaboration cafes are a way for members of the Jupyter Book community to remotely get together to share what they've been up to, have discussions, and work together.
 
 The Jupyter Book team is piloting an [experiment to join the JupyterHub Team Collaboaration Cafes][expt]. These are open to anyone, and are a way to discuss and work together across these projects.
 
