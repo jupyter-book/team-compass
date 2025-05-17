@@ -26,3 +26,7 @@ To build it locally:
    ```
 
 For more information on building sites with MyST, see [the MyST Guide](https://mystmd.org/guide).
+
+## Where this site is hosted
+
+The live site is hosted in the Jupyter Book Netlify account.
