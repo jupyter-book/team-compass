@@ -1,5 +1,8 @@
 # Team practices
 
+These are team practices that we try to follow across all repositories of `jupyter-book`.
+They are not _strictly_ enforced, but we ask that you prioritize following them, and provide a clear rationale if you don't intend to.
+
 ## When merging PRs, use squash commits
 
 When you merge a pull request, **use Squash Commits** before merging.
