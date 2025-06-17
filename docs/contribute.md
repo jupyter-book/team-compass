@@ -9,7 +9,7 @@ Absolutely! We welcome contribution from anyone, and want others to become contr
 
 ## Where to talk
 
-::::{grid} 2
+::::{grid} 3
 :::{card} Contributor and user Discord 💬
 :link: https://discord.mystmd.org
 For general chat in the Jupyter Book and MyST community
@@ -21,6 +21,12 @@ Click to visit the Discord
 For general conversation about the MyST Markdown engine.
 +++
 Click to visit the Discussion Forum
+:::
+:::{card} Join an event 🗓️
+:link: https://calendar.google.com/calendar/u/4?cid=Y184YWIxNzY1YjY1ODY3NDVkOGI3NWU5MmJkYzdjYTZlNDZjYWExMmE1ZjhkOTUwZDVmNzNmMzI2Zjk3NjE0NGQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+Connect with others in the Jupyter Book community in real-time.
++++
+Click to see our events calendar.
 :::
 ::::
 
@@ -41,9 +47,12 @@ Click to visit the `mystmd` contributor guide
 :::
 ::::
 
+(events)=
 ## Events and meetings
 
-The [Jupyter Book Calendar](https://calendar.google.com/calendar/embed?src=faf48ee4e1c5750fe98b9b78fa44af4053ce9f34860592a434f140eadc0c7824%40group.calendar.google.com&ctz=America%2FChicago) has a list of all Jupyter Book team meetings.
+(calendar)=
+
+The [Jupyter Book Calendar](https://calendar.google.com/calendar/u/4?cid=Y184YWIxNzY1YjY1ODY3NDVkOGI3NWU5MmJkYzdjYTZlNDZjYWExMmE1ZjhkOTUwZDVmNzNmMzI2Zjk3NjE0NGQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) has a list of all Jupyter Book team meetings.
 
 ### Monthly collaboration cafes
 
@@ -53,7 +62,7 @@ See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/A5lovhm4TFOYGq
 
 ::::{figure}
 :label: calendar
-:::{iframe} https://calendar.google.com/calendar/embed?src=faf48ee4e1c5750fe98b9b78fa44af4053ce9f34860592a434f140eadc0c7824%40group.calendar.google.com&ctz=America%2FChicago
+:::{iframe} https://calendar.google.com/calendar/embed?src=c_8ab1765b6586745d8b75e92bdc7ca6e46caa12a5f8d950d5f73f326f976144d7%40group.calendar.google.com&ctz=America%2FLos_Angeles
 :::
 
 The meeting schedule for Jupyter Book Collaboration Cafes
