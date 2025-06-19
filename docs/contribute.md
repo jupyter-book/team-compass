@@ -68,6 +68,10 @@ See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/A5lovhm4TFOYGq
 The meeting schedule for Jupyter Book Collaboration Cafes
 ::::
 
+:::{seealso} Facilitator checklist
+See [](./meetings/facilitator-checklist.md) for instructions on how to facilitate this meeting. We encourage anyone who is willing to serve in this role.
+:::
+
 :::{note} This is an experiment!
 This is an experiment in opening up our team practices. [Here's a blog post explaining our goals][expt]. We'd love feedback on how we can improve these meetings in a sustainable way.
 :::

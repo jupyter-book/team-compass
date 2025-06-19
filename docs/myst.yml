@@ -28,6 +28,11 @@ project:
     - file: tips.md
     - file: contribute.md
     - file: code-of-conduct.md
+    - title: Meetings
+      children:
+      - title: "2025"
+        pattern: "meetings/2025/*.md"
+      - file: meetings/facilitator-checklist.md
 site:
   options:
     logo_text: Team Compass
