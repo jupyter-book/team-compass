@@ -18,7 +18,7 @@ This document provides a list of actions for a facilitator to take, and when, wh
 ## During the Meeting
 
 ```{tip} Jitsi tip
-If you join the jitsi link a few minutes before the meeting starts, you'll see a "Waiting for the Moderator to start the meeting" message. You can claim moderator status by signing in (using GitHub will suffice). You can then manage breakout rooms and such.
+If you join the Jitsi link a few minutes before the meeting starts, you'll see a "Waiting for the Moderator to start the meeting" message. You can claim moderator status by signing in (using GitHub will suffice). You can then manage breakout rooms and such.
 ```
 
 - Welcome everyone and remind them that the meeting is being held under [Jupyter's Code of Conduct](https://jupyter.org/governance/conduct/code_of_conduct.html).
