@@ -12,13 +12,13 @@
 ## Summary
 
 - We will release Jupyter Book 2 "beta" version before SciPy, July 7, 2025. This is primarily a marketing/communication bump (as opposed to a significant technical change),
-- There are two outstanding technical regressions from JB1:  (1) rendering markdown cell outputs and (2) allowing edits for executable code cells. These issues are still top priorities, but they will not block "beta" - If we are not able to complete these before "beta" we will make sure to have a clear, well-scoped initiative for each that is easy to point to (e.g. when new users ask questions about them).,
+- There are two outstanding technical regressions from JB1:  (1) rendering markdown cell outputs and (2) allowing edits for executable code cells. These issues are still top priorities, but they will not block "beta" - If we are not able to complete these before "beta" we will make sure to have a clear, well-scoped initiative for each that is easy to point to (e.g. when new users ask questions about them).
 - The other important aspect of a "beta" release is prep for a potential influx of users (and hopefully contributors). Part of this just setting expectations for ourselves as maintainers, but there are some tangible steps around organization/documentation/example galleries that we can take (most of the conversation today has been related to this last point).
 
 ## Next actions
 
-- [ ] Create a source of truth for the markdown outputs issue
-- [ ] Merge the "SciPy" and the "Beta" columns in the project board.
+- [x] Create a source of truth for the Markdown outputs issue — https://github.com/jupyter-book/mystmd/issues/1026
+- [x] Merge the "SciPy" and the "Beta" columns in the project board.
     - [ ] Make it clear that the two items in this meeting are the blockers for beta
 - [ ] Signal-boost the need for a Jupyter Book 2 gallery.
 
