@@ -105,6 +105,7 @@ For those meetings it is helpful to run a pomodoro clock that allows contributor
 Any member of the JupyterBook community should feel empowered to host a Collaboration Cafe if they so wish.
 As well as information in the following sections, you can find a checklist of action items within the {ref}`collab-cafe:facilitator-checklist`.
 
+=(notes-archive)
 ## Notes archive
 
 Each file represents one year, and entries within a file are in reverse choronological order.
