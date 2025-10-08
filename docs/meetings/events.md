@@ -44,7 +44,7 @@ At the start of each Collaboration Café the chair should ask the group which br
 
 Breakout rooms allow us to have parallel conversations.
 We want to balance 1) the *efficient use* of our community members' time by working on focused topics in small groups with 2) *knowledge dissemination* within JupyterHub or JupyterBook and across Jupyter sub-projects.
-Ideally, a Collaboration Café also provides 3) *engineered serindipity*: the opportunity to learn something you did not know you did not know!
+Ideally, a Collaboration Café also provides 3) *engineered serendipity*: the opportunity to learn something you did not know you did not know!
 
 Some rooms may include:
 
