@@ -83,7 +83,7 @@ If there are actions from the discussions, capturing those as issues in the appr
 
 ## Video conferencing platform
 
-- The Collaboration Café is held in the Jupyter community zoom room: [https://zoom.us/j/95228013874?pwd=Ep7HIk8t9JP6VToxt1Wj4P7K5PshC0.1](https://zoom.us/j/95228013874?pwd=Ep7HIk8t9JP6VToxt1Wj4P7K5PshC0.1)
+- The Collaboration Café is held in the [Jupyter community zoom room](https://zoom.us/j/95228013874?pwd=Ep7HIk8t9JP6VToxt1Wj4P7K5PshC0.1)
 
 As a community we have experimented with Jitsi Meet - an open source video conferencing tool - and found that the free service did not manage large groups (N>6) particularly well.
 We were keen to support an open source tool but have chosen (in October 2025) to move to Zoom to facilitate the most accessible experience for users of screen readers and/or with low connectivity.
