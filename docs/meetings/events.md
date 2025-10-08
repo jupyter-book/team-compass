@@ -118,6 +118,6 @@ Each file represents one year, and entries within a file are in reverse choronol
 -->
 
 :::{note} This is an experiment!
-This is an experiment in opening up our team practices. [Here's a blog post explaining our goals][expt]. We'd love feedback on how we can improve these meetings in a sustainable way.
+This is an experiment in opening up our team practices. [Here's a blog post explaining our goals](#expt). We'd love feedback on how we can improve these meetings in a sustainable way.
 :::
 
