@@ -110,7 +110,7 @@ As well as information in the following sections, you can find a checklist of ac
 
 Each file represents one year, and entries within a file are in reverse choronological order.
 
-<!-- Sorry folks - I ran out of time to tidy up the notes! -->
+% TODO: tidy up the notes so we can have a list here.
 <!-- ```{toctree}
 :maxdepth: 2
 2025 []()./2025)
