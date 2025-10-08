@@ -57,7 +57,7 @@ Some rooms may include:
 
 The best way to suggest a discussion topic is to comment in the issue corresponding to the Collaboration Café as early as possible.
 
-Alternatively, you can add the topic directly in the [framapad](https://mypads2.framapad.org/p/jupyterhub-jupyterbook-collaborationcafe-nr53am9wz) under the "Breakout room and agenda item suggestions" heading.
+Alternatively, you can add the topic directly in the [running notes](https://mypads2.framapad.org/p/jupyterhub-jupyterbook-collaborationcafe-nr53am9wz) under the "Breakout room and agenda item suggestions" heading.
 
 The chair will then identify who else could or should be in the discussion and plan topics accordingly.
 
