@@ -27,3 +27,15 @@ We have two Google groups to standardize our team's access to various tools in t
 ## Google calendar
 
 We have [a Google calendar](#calendar) for organizing our events. This exists under the Project Jupyter Google Workspace.
+
+(1password)=
+## 1Password and shared passwords
+
+We use 1Password to securely store and share credentials for team accounts.
+All [team members](team.md) should have access to the **Jupyter Book vault** in our team 1Password account.
+
+[Here's a link to the 1password vault](https://jupyter.1password.com)
+
+This vault contains usernames and passwords for all shared accounts we use.
+
+To get started with accessing the vault, see the [1Password documentation](https://support.1password.com/explore/get-started/).
