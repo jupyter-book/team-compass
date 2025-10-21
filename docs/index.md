@@ -5,10 +5,16 @@ title: The Jupyter Book Team Compass
 This documentation serves as the **Source of Truth** (SoT) for the Jupyter Book community policy and practices.
 It also aims to provide resources that facilitate contribution and coordination among team members.
 
-:::{card} Want to contribute? Start here! ✨
+::::{grid} 2
+:::{card} Join us at a Collaboration Café ☕
 :link: contribute.md
-Our Team Compass is a way for others to understand our practices so that they can more effectively contribute. Click here to get started contributing.
+Collaboration Café's are meetings where our community synchronously connects.
 :::
+:::{card} Get started contributing ✨
+:link: contribute.md
+Our contribution guide will help you learn our practices so you can co-create with us easily!
+:::
+::::
 
 ## Goals of the Team Compass
 

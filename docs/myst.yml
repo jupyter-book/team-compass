@@ -28,7 +28,7 @@ project:
     - file: tips.md
     - file: contribute.md
     - file: code-of-conduct.md
-    - title: Meetings
+    - file: meetings/events.md
       children:
       - title: "2025"
         pattern: "meetings/2025/*.md"
