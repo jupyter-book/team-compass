@@ -18,6 +18,7 @@ The Steering Council Mailing List is: [**`jupyter-book-council@googlegroups.com`
 
 ### Members
 
+(steering-council-list)=
 ```{team} Steering Council
 ```
 
@@ -27,6 +28,7 @@ The Steering Council Mailing List is: [**`jupyter-book-council@googlegroups.com`
 
 Our core team consists of the following people (in alphabetical order).
 
+(core-team-list)=
 :::{team} Core Team
 :::
 
@@ -45,6 +47,7 @@ We plan for this to be a role that rotates through the team, with a roughly one-
 It can be any of the [core team members](#core-team).
 :::
 
+(org-status)=
 ## Organizational status
 
 The Jupyter Book community is a sub-project of [the Jupyter Project](https://jupyter.org).
