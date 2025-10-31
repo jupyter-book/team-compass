@@ -1,4 +1,4 @@
-# Listed in alphabetical order, beginning with the Steering Council
+# Alphabetical order by first name
 # Steering Council
 - name: Chris Holdgraf
   github: choldgraf
@@ -11,7 +11,7 @@
 - name: Rowan Cockett
   github: rowanc1
   team: Steering Council
-  affiliation: CurveNote
+  affiliation: Curvenote
 
 # Core Team
 - name: Angus Hollands
@@ -21,12 +21,16 @@
 - name: Frank W Koch
   github: fwkoch
   team: Core Team
-  affiliation: CurveNote
-- name: Steve Purves
-  github: stevejpurves
+  affiliation: Curvenote
+- name: Kirstie Whitaker
+  github: kirstiejane
   team: Core Team
-  affiliation: CurveNote
+  affiliation: Berkeley Institute for Data Science
 - name: Stefan van der Walt
   github: stefanv
   team: Core Team
   affiliation: Berkeley Institute for Data Science
+- name: Steve Purves
+  github: stevejpurves
+  team: Core Team
+  affiliation: Curvenote
