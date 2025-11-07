@@ -50,7 +50,7 @@ Click to visit the `mystmd` contributor guide
 (events)=
 ## Events and meetings
 
-(calendar)=
+(team-calendar)=
 
 The [Jupyter Book Calendar](https://calendar.google.com/calendar/u/4?cid=Y184YWIxNzY1YjY1ODY3NDVkOGI3NWU5MmJkYzdjYTZlNDZjYWExMmE1ZjhkOTUwZDVmNzNmMzI2Zjk3NjE0NGQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) has a list of all Jupyter Book team meetings.
 
@@ -58,10 +58,10 @@ The [Jupyter Book Calendar](https://calendar.google.com/calendar/u/4?cid=Y184YWI
 
 Collaboration cafes are a way for any member of the Jupyter Book community to remotely get together to share what they've been up to, have discussions, and work together. You are welcome to join as long as you're interested in Jupyter Book!
 
-See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/A5lovhm4TFOYGqD59jhfCw) for more details and meeting notes. 
+See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/@jupyter-book/collaboration-cafe) for more details and meeting notes. 
 
 ::::{figure}
-:label: calendar
+:label: collab-cafe-calendar
 :::{iframe} https://calendar.google.com/calendar/embed?src=c_8ab1765b6586745d8b75e92bdc7ca6e46caa12a5f8d950d5f73f326f976144d7%40group.calendar.google.com&ctz=America%2FLos_Angeles
 :::
 

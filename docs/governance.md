@@ -38,7 +38,7 @@ MyST is a special project of the Jupyter Book community, here are two sources of
   * [mystmd.org/spec](https://mystmd.org/spec)
   * [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
 - * **MyST enhancement proposals**
-  * [mep.mystmd.org](https://mep.mystmd.org/en/latest/)
+  * [mep.mystmd.org](https://mep.mystmd.org/)
   * [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
 :::
 
