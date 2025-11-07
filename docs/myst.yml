@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 extends:
-  - https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/next/docs/site.yml
+  - https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/main/docs/_site/site.yml
 project:
   id: 1ed3cb19-aaad-4cbf-86bf-57359c2e474b
   title: "Jupyter Book: Team Compass"
