@@ -6,7 +6,25 @@
 ## Build the documentation locally
 
 This site is built with [the MyST Document Engine](https://mystmd.org).
-To build it locally:
+
+### Option 1: Using Nox (recommended)
+
+If you have [Nox](https://nox.thea.codes/) installed:
+
+```bash
+# Start a live preview server
+nox -s docs-live
+
+# Or build the static HTML
+nox -s docs
+
+# Clean build artifacts
+nox -s clean
+```
+
+### Option 2: Manual setup
+
+To build it manually:
 
 1. Install MyST from PyPI:
 

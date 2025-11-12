@@ -43,7 +43,7 @@ We have several Google groups to standardize our team's access to various tools 
 
 ## Google calendar
 
-We have [a Google calendar](#calendar) for organizing our events. This exists under the Project Jupyter Google Workspace.
+We have [a Google calendar](#team-calendar) for organizing our events. This exists under the Project Jupyter Google Workspace.
 
 ## Squarespace
 
@@ -63,3 +63,28 @@ We have two Bluesky accounts:
 
 - `jupyterbook.org` - For project-wide, team, and organizational updates about Jupyter Book
 - `mystmd.org` - For product updates specific to the MyST technical ecosystem
+
+## Discord
+
+We use [our Discord server](https://discord.mystmd.org) for synchronous and informal communication.
+Anybody is invited to join this Discord.
+
+Use this link to share:
+
+https://discord.mystmd.org
+
+### `#private-maintainers` channel
+
+We have a private Discord channel for maintainer conversations that are sensitive or shouldn't be public.
+Only use this if absolutely necessary!
+
+All [team members](./team.md) should be added to this channel.
+To do so, follow these steps:
+
+1. Add them to the Discord by having them click the link above.
+2. Open the **channel settings** for the `#private-maintainers`:
+3. Click on `Add members or roles`: ![](accounts/discord-channel-settings.png)
+4. Add them by searching for their username: ![](accounts/discord-add-members.png)
+5. Give them `MyST Admin` role.
+
+That's it!
