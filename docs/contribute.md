@@ -53,12 +53,7 @@ Click to visit the `mystmd` contributor guide
 (team-calendar)=
 
 The [Jupyter Book Calendar](https://calendar.google.com/calendar/u/4?cid=Y184YWIxNzY1YjY1ODY3NDVkOGI3NWU5MmJkYzdjYTZlNDZjYWExMmE1ZjhkOTUwZDVmNzNmMzI2Zjk3NjE0NGQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) has a list of all Jupyter Book team meetings.
-
-### Monthly collaboration cafes
-
-Collaboration cafes are a way for any member of the Jupyter Book community to remotely get together to share what they've been up to, have discussions, and work together. You are welcome to join as long as you're interested in Jupyter Book!
-
-See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/@jupyter-book/collaboration-cafe) for more details and meeting notes. 
+Here it is:
 
 ::::{figure}
 :label: collab-cafe-calendar
@@ -67,6 +62,12 @@ See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/@jupyter-book/
 
 The meeting schedule for Jupyter Book Collaboration Cafes
 ::::
+
+### Monthly collaboration cafes
+
+Collaboration cafes are a way for any member of the Jupyter Book community to remotely get together to share what they've been up to, have discussions, and work together. You are welcome to join as long as you're interested in Jupyter Book!
+
+See [the Jupyter Book Collaboration Cafe notes](https://hackmd.io/@jupyter-book/collaboration-cafe) for more details and meeting notes. 
 
 :::{seealso} Facilitator checklist
 See [](./meetings/facilitator-checklist.md) for instructions on how to facilitate this meeting. We encourage anyone who is willing to serve in this role.
