@@ -6,7 +6,7 @@ They are not _strictly_ enforced, but we ask that you prioritize following them,
 ## When to merge pull requests
 
 We want to encourage fluid contributions and a bias towards action. While we care a great deal about the quality of our code, we believe that rapid iteration is a better mechanism for building good software, rather than having to get it perfect on the first attempt.
-We aim for optimistic merges, with [core-team contributors](./team.md) using their best judgement of when they think something might be controversial. Here are a few guidelines to follow:
+We aim for optimistic merges, with [core-team contributors](./team.md) using their best judgement to determine whether a change needs wider input. Here are a few guidelines to follow:
 
 - **Aim to merge only changes you understand fully**, if not seek review from the rest of the team.
 - **Use the [`#development` channel](https://discord.com/channels/1083088970059096114/1177359316886503464) in Discord to ask questions**. That's a useful place to signal-boost questions and discussion.
