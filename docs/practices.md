@@ -8,10 +8,12 @@ They are not _strictly_ enforced, but we ask that you prioritize following them,
 We want to encourage fluid contributions and a bias towards action, rather than worrying about getting it perfect.
 We aim for optimistic merges, with [core-team contributors](./team.md) using their best judgement of when they think something might be controversial. Here are a few guidelines to follow:
 
-- Aim to merge only changes you understand fully, if not seek review from the rest of the team.
-- If merging has large implications for maintainers (e.g. an AST change, or core processing infrastructure) or there are user facing implications that we can't easily walk back (e.g. a config addition, a new directive, a large user facing change) seek input and post messages in both GitHub and Discord.
-- Smaller, iterative changes like targeted bug fixes, typos, docs changes are low risk — aim to seek feedback, but don't block yourself if you're not getting a response!
-- Use the GitHub UI to review your own pull request! If you'd like to merge without another person reviewing first, this is a helpful way to show you've done some due-diligence.
+- **Aim to merge only changes you understand fully**, if not seek review from the rest of the team.
+- **Smaller, iterative changes**: are low risk - aim to seek feedback, but don't block yourself if you're not getting a response! 
+    - Examples: targeted bug fixes, typos, docs changes.
+- **Larger changes for maintainers or users**: more important to get review - seek input and post messages in both GitHub and Discord.
+    - Examples: An AST change, a change to core processing infrastructure, a change to team practices everybody will need to follow, a new directive, a breaking change for users we can't easily walk back. 
+- **Use the GitHub UI to review your own pull request**! If you'd like to merge without another person reviewing first, this is a helpful way to show you've done some due-diligence.
 
 In general, we trust those with merge rights to make the right decision. You should use your best judgment and it's OK if you make a mistake - we can always revert changes if we haven't made a release.
 
