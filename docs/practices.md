@@ -9,6 +9,7 @@ We want to encourage fluid contributions and a bias towards action, rather than 
 We aim for optimistic merges, with [core-team contributors](./team.md) using their best judgement of when they think something might be controversial. Here are a few guidelines to follow:
 
 - **Aim to merge only changes you understand fully**, if not seek review from the rest of the team.
+- **Use the [`#development` channel](https://discord.com/channels/1083088970059096114/1177359316886503464) in Discord to ask questions**. That's a useful place to signal-boost questions and discussion.
 - **Smaller, iterative changes**: are low risk - aim to seek feedback, but don't block yourself if you're not getting a response! 
     - Examples: targeted bug fixes, typos, docs changes.
 - **Larger changes for maintainers or users**: more important to get review - seek input and post messages in both GitHub and Discord.
