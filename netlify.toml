@@ -1,9 +1,11 @@
+# Netlify should serve the compass at a /compass subpath
+# This allows us to proxy it at jupyterbook.org/compass
 [build]
   command = """
   pip install -r requirements.txt;
   cd docs;
-  BASE_URL=compass myst build --html --execute;
-  mkdir -p publish/docs
-  cp -r _build/html/* publish/docs/
+  BASE_URL=/compass myst build --html --execute;
+  mkdir -p publish/compass
+  cp -r _build/html/* publish/compass/
   """
   publish = "publish/"
