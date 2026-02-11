@@ -88,3 +88,8 @@ To do so, follow these steps:
 5. Give them `MyST Admin` role.
 
 That's it!
+
+## Hackmd
+
+We have a [HackMD team](https://hackmd.io/team/jupyterbook) for sharing notes from meetings and design documents.
+Any [core team](./team.md) member should be added this team.
