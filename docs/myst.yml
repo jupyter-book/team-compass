@@ -1,10 +1,10 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 extends:
-  - https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/main/docs/_site/site.yml
+  - https://raw.githubusercontent.com/jupyter-book/jupyterbook.org/refs/heads/main/docs/_site/site.yml
 project:
   id: 1ed3cb19-aaad-4cbf-86bf-57359c2e474b
-  title: "Jupyter Book: Team Compass"
+  title: "Team Compass"
   description: Team compass and documentation about governance for the Jupyter Book and MyST Markdown communities.
   keywords:
     - Jupyter
@@ -15,8 +15,9 @@ project:
   license: CC0-1.0
   references:
     jupyter_governance: https://jupyter.org/governance/
-    blog: https://blog.jupyterbook.org/
+    blog: https://jupyterbook.org/blog
     mep: https://mep.mystmd.org/
+    org: https://jupyterbook.org/
   plugins:
     - src/team.mjs
   toc:
@@ -33,6 +34,3 @@ project:
       - title: "2025"
         pattern: "meetings/2025/*.md"
       - file: meetings/facilitator-checklist.md
-site:
-  options:
-    logo_text: Team Compass
