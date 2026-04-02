@@ -20,6 +20,8 @@ project:
     org: https://jupyterbook.org/
   plugins:
     - src/team.mjs
+    # For shared footer
+    - https://github.com/jupyter-book/myst-plugins/releases/download/footer-latest/index.mjs
   toc:
     - file: index.md
     - file: team.md
