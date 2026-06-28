@@ -1,6 +1,6 @@
 # The Jupyter Book Team Compass
 
-✨ Live site: [compass.jupyterbook.org](https://compass.jupyterbook.org).
+✨ Live site: [jupyterbook.org/compass](https://jupyterbook.org/compass).
 📚 Source files: [`docs/`](docs/)
 
 ## Build the documentation locally
