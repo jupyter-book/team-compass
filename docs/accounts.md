@@ -89,6 +89,34 @@ To do so, follow these steps:
 
 That's it!
 
+(accounts:npm)=
+## npm
+
+Our packages in npm live in two organizations:
+
+- [`mystmd`](https://www.npmjs.com/org/mystmd) - the core packages from the `mystmd` repository (e.g., `mystmd`, `myst-cli`, `myst-common`).
+- [`myst-theme`](https://www.npmjs.com/org/myst-theme) - the frontend packages, published under the `@myst-theme/` scope.
+
+Each org has a single `developers` team that has access to all of its packages.
+Two Steering Council members are org owners, and a few core team members are admins.
+
+We try to keep access small (a few engineering-focused core team members) to minimize our security exposure.
+
+### Why a person might need to use NPM directly
+
+Our JavaScript packages are published to npm by GitHub Actions using [trusted publishing](https://docs.npmjs.com/trusted-publishers).
+However there are a few reasons you might want to use npm directly.
+Here are the things that a person might want to do:
+
+- Publish a brand-new package for the first time and set up trusted publishing for it.
+- Fix a package when automated publishing breaks.
+- Add team members to the `developers` team.
+
+To get access, ask an org owner in the `#private-maintainers` channel.
+To check that you have access, open a package's **Settings** tab on npm (e.g., [`myst-common`](https://www.npmjs.com/package/myst-common/access)).
+
+
+
 ## Hackmd
 
 We have a [HackMD team](https://hackmd.io/team/jupyterbook) for sharing notes from meetings and design documents.
